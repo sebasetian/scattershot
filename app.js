@@ -64,7 +64,7 @@ d3.select('svg')
    .attr('y', padding)
    .attr('dy', '-1.1em')
    .style('text-anchor', 'middle')
-   .text('Lify Expectancy');
+   .text('Life Expectancy');
    
 d3.select('svg')
    .append('text')
